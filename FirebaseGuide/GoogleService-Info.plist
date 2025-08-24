@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyDGuvA9GHrbj6VJDFccYuEy333wXy-gYHU</string>
+	<string>AIzaSyC6Lx9ABTE6xs5efiEvniFF3S4qE07x-ig</string>
 	<key>GCM_SENDER_ID</key>
-	<string>824520277270</string>
+	<string>60656905810</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>at.FirebaseGuide</string>
 	<key>PROJECT_ID</key>
-	<string>fir-guide-74c35</string>
+	<string>bootcampfb</string>
 	<key>STORAGE_BUCKET</key>
-	<string>fir-guide-74c35.firebasestorage.app</string>
+	<string>bootcampfb.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:824520277270:ios:66c0f7b29a28f2e9136437</string>
+	<string>1:60656905810:ios:15fb873a3c69167d45f98b</string>
 </dict>
 </plist>
