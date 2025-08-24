@@ -18,9 +18,7 @@ struct ContentView: View {
                 .frame(width: 0.75 * UIScreen.main.bounds.width, height: 0.75 * UIScreen.main.bounds.width)
                 .cornerRadius(0.75 * UIScreen.main.bounds.width)
             Button {
-                Task {
-                    data = await vm.readFromAlec()
-                }
+                // Implement firebase here
             } label: {
                 Text("Read Alec's IQ")
                     .frame(maxWidth: .infinity)
@@ -32,9 +30,7 @@ struct ContentView: View {
                 .padding(.vertical, 10)
             Text("Data: \(data)").padding(10)
             Button {
-                Task {
-                    await vm.writeToBuzz(data: data)
-                }
+                // Implement Firebase here
             } label: {
                 Text("Write IQ to Buzz")
                     .frame(maxWidth: .infinity)
