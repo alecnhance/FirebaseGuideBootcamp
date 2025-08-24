@@ -8,6 +8,8 @@
 import Foundation
 import FirebaseFirestore
 
+// This is the solution
+
 class FirebaseViewModel: ObservableObject {
     let db = Firestore.firestore()
     var onSetupCompleted: ((FirebaseViewModel) -> Void)?
