@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+//this is a meaningless change
+
 struct ContentView: View {
     @State var data: Int = 0
     var vm: FirebaseViewModel = FirebaseViewModel.vm
